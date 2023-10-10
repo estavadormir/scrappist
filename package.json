@@ -1,0 +1,12 @@
+{
+  "name": "scrappist",
+  "module": "index.ts",
+  "type": "module",
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "puppeteer": "^21.3.8"
+  }
+}
