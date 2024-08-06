@@ -6,7 +6,14 @@
     "typescript": "^5.0.0"
   },
   "dependencies": {
+    "@inquirer/prompts": "^5.3.8",
+    "cli-progress": "^3.12.0",
     "fs": "^0.0.1-security",
     "puppeteer": "^22.11.2"
+  },
+  "devDependencies": {
+    "@types/bun": "latest",
+    "@types/cli-progress": "^3.11.6",
+    "@types/inquirer": "^9.0.7"
   }
 }
