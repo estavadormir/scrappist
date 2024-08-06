@@ -1,1 +1,1 @@
-export * from "./GenerateUrls";
+export * from "./generateUrls.ts";

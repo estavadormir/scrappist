@@ -1,6 +1,5 @@
 /**
  * Generate urls based on a certain domain concatenated with a string and an optional max number.
- * TODO: currently only allows a certain format of url, perhaps adapt this to allow for more flexibility.
  */
 export const GenerateUrls = (
   domain: string,
