@@ -5,6 +5,9 @@
   "peerDependencies": {
     "typescript": "^5.0.0"
   },
+  "scripts": {
+    "test": "bun test"
+  },
   "dependencies": {
     "@inquirer/prompts": "^5.3.8",
     "cli-progress": "^3.12.0",
